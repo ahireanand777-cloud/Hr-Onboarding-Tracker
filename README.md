@@ -23,4 +23,12 @@ This project demonstrates practical Excel skills for HR operations, employee onb
 ## File
 Open the Excel workbook in this repository to explore the tracker and dashboard.
 
+## Dashboard Preview
+
+![Dashboard Overview](Hr_Dashboard_01.png)
+
+![Dashboard Details](Hr_Dashboard_02.png)
+
+![Additional Dashboard View](Hr_Dashboard_03.png)
+
 *Note: This is a portfolio demonstration using sample employee data.*
